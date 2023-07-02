@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Define the file path for storing images in the cache directory -->
+    <cache-path name="signature_images" path="signature_images/" />
+</paths>
+

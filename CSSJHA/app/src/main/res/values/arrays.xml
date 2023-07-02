@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="scope_options">
+        <item>Select Scope</item>
+        <item>Erect Steel</item>
+        <item>Floor Deck</item>
+        <item>Roof Deck</item>
+        <item>Siding</item>
+        <item>Stairs</item>
+        <item>Railing</item>
+        <item>Detailing</item>
+        <item>Architectural</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="scope_options2">
+        <item>Floor Deck</item>
+        <item>Hoisting</item>
+        <item>Spreading</item>
+        <item>Welding/Screwing</item>
+        <item>Cutting</item>
+        <item>Studs</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="scope_options3">
+        <item>Roof Deck</item>
+        <item>Hoisting</item>
+        <item>Spreading</item>
+        <item>Welding/Screwing</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="scope_options4">
+        <item>Siding</item>
+        <item>Installation</item>
+        <item>Cutting</item>
+        <item>Screwing</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="scope_options5">
+        <item>Stairs</item>
+        <item>Installation</item>
+        <item>Welding</item>
+        <item>Cutting</item>
+        <item>Grinding</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="scope_options6">
+        <item>Railing</item>
+        <item>Installation</item>
+        <item>Coring</item>
+        <item>Welding</item>
+        <item>Cutting</item>
+        <item>Grinding</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="scope_options7">
+        <item>Detailing</item>
+        <item>Bolting</item>
+        <item>Welding</item>
+        <item>Cutting</item>
+        <item>Grinding</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="scope_options8">
+        <item>Architectural</item>
+        <item>Installation</item>
+        <item>Welding</item>
+        <item>Cutting</item>
+        <item>Grinding</item>
+        <item>Other</item>
+    </string-array>
+</resources>
